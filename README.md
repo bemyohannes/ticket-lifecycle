@@ -67,11 +67,23 @@ For the purposes of this tutorial, I created a fictional agent named Jane Doe.
 <img src="https://i.imgur.com/I4WCIrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<h3>Resolution</h3>
 
+Note the message from Jane Doe communicating the correction of the issue and the ticket status at bottom of page.  
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BzuljZW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+The ticket is now closed
+
+<p>
+<img src="https://i.imgur.com/qUiSRu2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
