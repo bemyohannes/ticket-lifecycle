@@ -61,7 +61,7 @@ For the purposes of this tutorial, I created a fictional agent named Jane Doe.
 <img src="https://i.imgur.com/MKROfQa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<p>Note the documentation of the different actions taken on the ticket, inlcuding the communication by the agent to the user stating issue is being addressed.</p>
+<p>Note the documentation of the different actions taken on the ticket, inlcuding the communication by Jane Doe to the Maya stating issue is being addressed.</p>
 
 <p>
 <img src="https://i.imgur.com/I4WCIrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
