@@ -37,6 +37,8 @@ Users will be able to create new tickets and check the status of existing ticket
 
 For the purposes of this tutorial, a ticket will be created by a fictional user named Maya.
 
+<br />
+
 <p>
 <img src="https://i.imgur.com/JkJYZUc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
