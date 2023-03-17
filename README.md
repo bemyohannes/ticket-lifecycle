@@ -27,7 +27,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
+<p>
+Users will be able to create new tickets and check the status of existing tickets from the ticket system support center, found at this URL: http://localhost/osTicket/
+</p>
+
+<p>
+<img src="https://i.imgur.com/wu3Gw2Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <h2>Lifecycle Stages</h2>
+
+<h3>Intake</h3>
+
+You will now need to browse to the osTicket login page (http://localhost/osTicket/scp/login.php) and login as an agent to triage and solve open tickets. 
+
+For the purposes of this tutorial, I created a fictional agent named Jane Doe and I will be solving a ticket created by a fictional user named Maya.
+
+<p>
+<img src="https://i.imgur.com/Sg647mx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
